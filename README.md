@@ -1,4 +1,4 @@
-# GoIT Cypress Automation Journey 🚀
+# Cypress Automation Learning Journey
 
 Welcome to my comprehensive repository for Cypress Automation testing. This project tracks my learning progress, professional documentation, and homework assignments as a Software QA Automation Engineer Candidate.
 
