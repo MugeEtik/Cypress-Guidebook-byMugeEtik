@@ -1,4 +1,4 @@
-# Cypress Automation Guidebook 🚀
+# Cypress Automation Fundamentals 🚀
 
 This project is a comprehensive reference guide for **Cypress UI Automation**. It covers fundamental commands, architectural terminology, and best practices for modern web testing.
 
